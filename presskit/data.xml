@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Through Games</title>
+	<founding-date>March 2014</founding-date>
+	<website>http://frugame.com/</website>
+	<based-in>Breda, The Netherlands</based-in>
+	
+	<press-contact>contact@frugame.com</press-contact>
+	<phone>+31 06 13 79 88 28</phone>
+	<address>
+		<line>Dutch Game Garden Breda</line>
+		<line>Archimedestraat 17 4816BA</line>
+		<line>Breda, The Netherlands</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>Official Twitter Account</name>
+			<link>twitter.com/FRU_Game</link>
+		</social>
+		<social>
+			<name>Official Facebook Account</name>
+			<link>https://www.facebook.com/FRUGAME/</link>
+		</social>
+		<social>
+			<name>Skype</name>
+			<link>callto:malolsonoio</link>
+		</social>
+	</socials>
+
+	<description>	
+		Through Games is the company we founded to develop Fru, after we made our first prototype at the Global Game Jam 2014. It's located in Breda, the Netherlands, and we very much enjoy confusing people with the assonance Fru / Through.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Test test</text>
+		</history>
+		<history>
+			<header>After that</header>
+			<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem dui, volutpat eu adipiscing sed, rutrum aliquam lacus. Proin sollicitudin consequat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan.</text>
+		</history>
+	</histories>
+
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+
+	<credits>
+		<credit>
+			<person>Christiaan Bloemendaal</person>
+			<website>https://twitter.com/Chrusb</website>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Christian Kokott</person>
+			<website>https://twitter.com/dotKokott</website>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Erwin van Hoof</person>
+			<website>https://twitter.com/EvHoof</website>
+			<role>Level Designer</role>
+		</credit>
+		<credit>
+			<person>Lauren Lapierre Armande</person>
+			<website>https://twitter.com/aparaitre</website>
+			<role>Artist</role>
+		</credit>
+		<credit>
+			<person>David Oppenberg</person>
+			<website>https://twitter.com/Mountaindopp</website>
+			<role>Game Designer</role>
+		</credit>
+		<credit>
+			<person>Erik te Molder</person>
+			<website>https://twitter.com/eriktemolder</website>
+			<role>Artist</role>
+		</credit>
+		<credit>
+			<person>Mattia Traverso</person>
+			<website>https://twitter.com/MattiaNotFound</website>
+			<role>Game Designer, Producer</role>
+		</credit>
+		<credit>
+			<person>Chi Wong</person>
+			<website>https://twitter.com/chikwanwong</website>
+			<role>Artist</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>contact@frugame.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/FRU_Game</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/FRUGAME</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>frugame.com</link>
+		</contact>
+	</contacts>
+</game>

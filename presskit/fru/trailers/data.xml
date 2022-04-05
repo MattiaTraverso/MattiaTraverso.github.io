@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>FRU</title>
+	<release-date>8 July, 2016</release-date>
+	<website>http://frugame.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Xbox One</name>
+			<link>https://store.xbox.com/</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$15</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€15</value>
+		</price>
+	</prices>
+
+	<description>
+	FRU is a puzzle platformer that features an innovative use of Kinect, in which your silhouette becomes a "portal" between two worlds.
+
+	You will find yourself solving puzzles by strategically positioning your body, combining physical interaction with traditional platforming.
+
+    <br></br>
+
+	Be precise, be careful, take on a funny pose, but most importantly, be creative with your body! Every level can be solved in multiple ways, with different poses. What sort of creative solutions can you come up with?
+
+	Discover the turbulent past of the FRU temple... through the lense of your silhouette!
+	</description>
+	
+	<history>
+	FRU was born as a quick prototype realised in 48 hours during the 2014 Global Game Jam in Breda, Netherlands. Desperate for the lack of ideas and the sleep deprivation, we discovered our programmer had brought a Kinect.
+
+	Ideas flew, one prototype lead to another, and we finally had a game, which you can see in our very old trailer: https://www.youtube.com/watch?v=u9GU9XRTYAc
+
+	We were blown away by the response of critic and public, so we decided to turn the game into a more complete and polished experience. We founded "Through Games", the company that we have been part of for the more than two years of development.
+
+    After a brief stop at E3, showcasing our coop prototype ( https://www.youtube.com/watch?v=zcoyqGmomzA ), we decided we were going to focus on single player, but included the cooperative version in the full game as an unlockable bonus.
+
+	The new FRU is an entirely revised experience, with new mechanics and worlds, including a Water world (We promise, it's the *good* kind of water level!) where you can Swim inside your silhouette, and a Buttons mechanic that will rival the Yoga teacher your cousing is talking so much about.
+
+	</history>
+
+	<features>
+		<feature>Innovative, never seen before use of Kinect</feature>
+		<feature>Four different chapters, with a water level that doesn't suck!</feature>
+		<feature>110 Levels and 24 extra collectibles for extra challenge</feature>
+		<feature>An unlockable cooperative mode for two players</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Release Trailer</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<mp4>Fru_Release_Trailer.mp4</mp4>
+		</trailer>
+		<trailer>
+			<name>E3 Coop Prototype Trailer</name>
+			<youtube>zcoyqGmomzA</youtube>
+		</trailer>
+		<trailer>
+			<name>Original Prototype Trailer</name>
+			<youtube>u9GU9XRTYAc</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Official Selection of the Experimental Gameplay Workshop at GDC 2014</description>
+			<info>San Francisco, March, 2014</info>
+		</award>
+		<award>
+			<description>National and Local Global Game Jam Winner (Netherlands)</description>
+			<info>Netherlands, January, 2014</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>BRILLIANT</description>
+			<name>CliffyB</name>
+			<website>Twitter</website>
+			<link>https://twitter.com/therealcliffyb/status/449961114194161664</link>
+		</quote>
+		<quote>
+			<description>If you don’t think that’s an amazing idea, then we’re not friends, and you’re no longer invited to my birthday party. This is just 48 hours work, and for that, much applause.</description>
+			<name>John Walker</name>
+			<website>Rock Paper Shotgun</website>
+			<link>https://www.rockpapershotgun.com/2014/01/31/fact-fru-is-the-best-idea/</link>
+		</quote>
+		<quote>
+			<description>Fru isn't just the best game I've ever seen on Kinect (sorry, Dance Central, though you're pretty good, too)...it's a game I really want to play</description>
+			<name>Stephen Totilo</name>
+			<website>Kotaku</website>
+			<link>http://kotaku.com/one-of-the-show-stoppers-at-e3-was-an-awesome-kinect-ga-1590569692</link>
+		</quote>
+		<quote>
+			<description>The most inventive use of Kinect in years</description>
+			<name>Patrick Klepek</name>
+			<website>GiantBomb</website>
+			<link>http://www.giantbomb.com/articles/kinect-died-in-the-uncanny-valley/1100-4920/</link>
+		</quote>
+	</quotes>
+	
+	<credits>
+		<credit>
+			<person>Christiaan Bloemendaal</person>
+			<website>https://twitter.com/Chrusb</website>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Christian Kokott</person>
+			<website>https://twitter.com/dotKokott</website>
+			<role>Programmer</role>
+		</credit>
+		<credit>
+			<person>Erwin van Hoof</person>
+			<website>https://twitter.com/EvHoof</website>
+			<role>Level Designer</role>
+		</credit>
+		<credit>
+			<person>Lauren Lapierre Armande</person>
+			<website>https://twitter.com/aparaitre</website>
+			<role>Artist</role>
+		</credit>
+		<credit>
+			<person>David Oppenberg</person>
+			<website>https://twitter.com/Mountaindopp</website>
+			<role>Game Designer</role>
+		</credit>
+		<credit>
+			<person>Erik te Molder</person>
+			<website>https://twitter.com/eriktemolder</website>
+			<role>Artist</role>
+		</credit>
+		<credit>
+			<person>Mattia Traverso</person>
+			<website>https://twitter.com/MattiaNotFound</website>
+			<role>Game Designer, Producer</role>
+		</credit>
+		<credit>
+			<person>Chi Wong</person>
+			<website>https://twitter.com/chikwanwong</website>
+			<role>Artist</role>
+		</credit>
+	</credits>
+</game>

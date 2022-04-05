@@ -1,0 +1,41 @@
+/* TEAM FRU - THROUGH GAMES */
+                     
+Names: 
+	Lauren Armande, 
+	Christiaan Bloemendaal, 
+	Christian Kokott, 
+	David Oppenberg, 
+	Robin Yann-Storm, 
+	Chi Wong.
+
+Site: www.frugame.com
+
+Twitter Handles: 
+	@aparaitre,
+	@Chrusb,
+	@dotKokott,
+	@MountainDopp,
+	@RYStorm,
+	@theMaTX,
+	@chikwanwong.
+
+													
+/* SITE DESIGN BYE */
+
+							
+Name: Matthew Stenquist ("Nightmare Panda ++ Joyhype")
+
+URL: http://www.mattmade.it
+
+                       
+                            
+/* THE TECH */
+
+                            
+Last update: 2014/06/06 
+
+Standards: HTML5, CSS3,..   
+
+Components: jQuery.
+
+Software: Adobe PS CC, Sublime 3, MAMP.

@@ -1,0 +1,4 @@
+AuthGroupFile /dev/null
+AuthUserFile /home/deb48092n2/domains/frugame.com/.htpasswd/public_html/.htpasswd
+AuthName "No peeks yet!"
+ErrorDocument 401 "Unauthorized Access"
